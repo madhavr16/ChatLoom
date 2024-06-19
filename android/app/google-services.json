@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140449582140",
+    "project_id": "chatapp-fa52b",
+    "storage_bucket": "chatapp-fa52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140449582140:android:f7d1c577e23fd17bc34739",
+        "android_client_info": {
+          "package_name": "com.example.allen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLTlEMTXlbg6VfwNUknAMggxIcq_j2U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
